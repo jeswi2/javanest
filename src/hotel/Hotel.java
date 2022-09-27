@@ -1,6 +1,5 @@
 package hotel;
 
-
 import java.util.Scanner;
 
 public class Hotel {
