@@ -113,7 +113,7 @@ public class Shop {
 
                         case 4:
 
-                            System.out.println("Enter the qty");
+                            System.out.println("Enter the Qty");
 
                             qty = in.nextInt();
 
